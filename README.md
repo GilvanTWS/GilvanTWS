@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! I'm Gilvan — a Computer Science student and aspiring software developer, constantly learning, building, and improving.</h2>
+<h2 align="left">Hi there! I'm Gilvan — a Computer Science student and aspiring software developer, constantly learning and building.</h2>
 
 ###
 
