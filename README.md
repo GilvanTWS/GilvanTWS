@@ -8,9 +8,9 @@
 
 ### 👨‍💻 About Me
 - 🎓 CS student at UFCA (2nd semester)  
-- 💻 Focused on C programming, algorithms, and problem-solving  
-- 🔍 Interested in backend development, systems, and SAP technologies  
-- 🚀 Always working on new projects and improving technical skills  
+-  Focused on C programming, algorithms, and problem-solving  
+-  Interested in backend development and systems 
+-  Always working on new projects and improving technical skills  
 
 ###
 
@@ -54,5 +54,3 @@ Here are some of my highlighted repositories:
 - **GilvanTWS Portfolio Repo** — personal project showcase  
 
 ---
-
-<h4 align="center">Always learning. Always building. Always improving. 🚀</h4>
