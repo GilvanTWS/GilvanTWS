@@ -51,6 +51,7 @@ Here are some of my highlighted repositories:
 - **Cartesian Game (Logisim)** — digital game built using logic circuits  
 - **Donuts Game** — programming project made for Intro to Programming  
 - **C Logic Exercises** — solutions for algorithm and logic practice  
-- **GilvanTWS Portfolio Repo** — personal project showcase  
+- **GilvanTWS Portfolio Repo** — personal project showcase
 
+**NOTE:** The first questions in the exercise lists may contain basic implementation errors; this happens because it's my first attempt/first contact with the applied content.
 ---
