@@ -7,7 +7,7 @@
 ###
 
 ### 👨‍💻 About Me
-- 🎓 CS student at UFCA (2nd semester)  
+- 🎓 CS student at UFCA (3nd semester)  
 -  Focused on C programming, algorithms, and problem-solving  
 -  Interested in backend development and systems 
 -  Always working on new projects and improving technical skills  
