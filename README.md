@@ -2,15 +2,23 @@
 
 ###
 
-<p align="right">
-  <img height="150" src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif" />
-</p>
-
-### 👨‍💻 About Me
-- 🎓 CS student at UFCA (3rd semester)  
-- 🎯 Focused on C programming, algorithms, and problem-solving  
-- ⚙️ Interested in backend development and systems  
-- 🚀 Always working on new projects and improving technical skills  
+<table border="0">
+  <tr>
+    <td>
+      <h2 align="left">Hi there! I'm Gilvan — a Computer Science student and aspiring software developer, constantly learning and building.</h2>
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🎓 CS student at UFCA (3rd semester)</li>
+        <li>🎯 Focused on C programming, algorithms, and problem-solving</li>
+        <li>⚙️ Interested in backend development and systems</li>
+        <li>🚀 Always working on new projects and improving technical skills</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <img src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tech Stack
 <div align="left">
