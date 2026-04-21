@@ -1,6 +1,3 @@
-<h2 align="left">Hi there! I'm Gilvan — a Computer Science student and aspiring software developer, constantly learning and building.</h2>
-
-###
 
 <table border="0">
   <tr>
