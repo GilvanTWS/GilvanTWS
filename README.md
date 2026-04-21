@@ -28,13 +28,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VSCode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5 logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3 logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java logo" />
 </div>
 
 ### 📚 Currently Learning
 - 🏆 **Competitive Programming:** Practicing on Beecrowd and Codeforces  
 - 🕸️ **Graph Theory:** Implementing BFS, DFS, and Dijkstra  
 - 🏗️ **Advanced Data Structures:** Hash tables and Trees in C/C++  
-- 🌐 **Web Development:** Backend fundamentals with PHP/Laravel  
+- 🌐 **Web Development:** Backend fundamentals with PHP/Laravel
+- ☕ **Object-Oriented Programming:** Starting Java this semester for POO classes.
+- 🎨 **Web Fundamentals:** Improving HTML5 and CSS3 through practical projects.
 
 ### 📊 GitHub Stats
 <div align="left">
