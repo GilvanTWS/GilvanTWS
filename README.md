@@ -64,6 +64,9 @@
   <a href="https://github.com/GilvanTWS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&style=for-the-badge" height="35"/>
   </a>
+  <a href="https://wa.me/5588920009383" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" />
+  </a>
 </div>
 
 ---
