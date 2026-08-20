@@ -5,10 +5,10 @@
       <h2 align="left">Hi there! I'm Gilvan — a Computer Science student and aspiring software developer, constantly learning and building.</h2>
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🎓 CS student at UFCA (3rd semester)</li>
-        <li>🎯 Focused on C programming, algorithms, and problem-solving</li>
-        <li>⚙️ Interested in backend development and systems</li>
-        <li>🚀 Always working on new projects and improving technical skills</li>
+        <li> CS student at UFCA (3rd semester)</li>
+        <li> Focused on C programming, algorithms, and problem-solving</li>
+        <li> Interested in backend development and systems</li>
+        <li> Always working on new projects and improving technical skills</li>
       </ul>
     </td>
     <td valign="top">
@@ -37,12 +37,12 @@
 </div>
 
 ### 📚 Currently Learning
-- 🏆 **Competitive Programming:** Practicing on Beecrowd and Codeforces  
-- 🕸️ **Graph Theory:** Implementing BFS, DFS, and Dijkstra  
-- 🏗️ **Advanced Data Structures:** Hash tables and Trees in C/C++  
-- 🌐 **Web Development:** Backend fundamentals with PHP/Laravel
-- ☕ **Object-Oriented Programming:** Starting Java this semester for POO classes.
-- 🎨 **Web Fundamentals:** Improving HTML5 and CSS3 through practical projects.
+-  **Competitive Programming:** Practicing on Beecrowd and Codeforces  
+-  **Graph Theory:** Implementing BFS, DFS, and Dijkstra  
+-  **Advanced Data Structures:** Hash tables and Trees in C/C++  
+-  **Web Development:** Backend fundamentals with PHP/Laravel
+-  **Object-Oriented Programming:** Starting Java this semester for POO classes.
+-  **Web Fundamentals:** Improving HTML5 and CSS3 through practical projects.
 
 ### 📊 GitHub Stats
 <div align="left">
