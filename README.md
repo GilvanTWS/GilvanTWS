@@ -18,7 +18,6 @@
 </table>
 
 ### 🛠️ Tech Stack
-### 🛠️ Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C logo" />
   <img width="12" />
