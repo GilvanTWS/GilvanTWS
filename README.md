@@ -48,11 +48,7 @@
 -  **Object-Oriented Programming:** Starting Java this semester for POO classes.
 -  **Web Fundamentals:** Improving HTML5 and CSS3 through practical projects.
 
-### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GilvanTWS&theme=tokyonight" height="170" alt="GitHub Streak" />
-  <img src="https://streak-stats.demolab.com?user=GilvanTWS&theme=tokyonight&hide_border=false" height="170" alt="GitHub Streak" />
-</div>
+
 
 ### 🚀 Pinned Projects
 - **Cartesian Game (Logisim)** — Digital game built using logic circuits  
