@@ -50,8 +50,8 @@
 
 ### 📊 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GilvanTWS&show_icons=true&theme=tokyonight" height="170" alt="Gilvan's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=GilvanTWS&theme=tokyonight" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GilvanTWS&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170" alt="Gilvan's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=GilvanTWS&theme=tokyonight&hide_border=false" height="170" alt="GitHub Streak" />
 </div>
 
 ### 🚀 Pinned Projects
