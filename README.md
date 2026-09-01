@@ -5,7 +5,7 @@
       <h2 align="left">Hi there! I'm Gilvan — a Computer Science student and aspiring software developer, constantly learning and building.</h2>
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li> CS student at UFCA (3rd semester)</li>
+        <li> CS student at UFCA (4th semester)</li>
         <li> Focused on C programming, algorithms, and problem-solving</li>
         <li> Interested in backend development and systems</li>
         <li> Always working on new projects and improving technical skills</li>
