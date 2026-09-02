@@ -41,7 +41,7 @@
 </div>
 
 ### 📚 Currently Learning
--  **Competitive Programming:** Practicing on Beecrowd and Codeforces  
+- **Competitive Programming:** Practicing on Beecrowd and Codeforces, and participating in programming contests such as SBC and MCP 
 -  **Graph Theory:** Implementing BFS, DFS, and Dijkstra  
 -  **Advanced Data Structures:** Hash tables and Trees in C/C++  
 -  **Web Development:** Backend fundamentals with PHP/Laravel
