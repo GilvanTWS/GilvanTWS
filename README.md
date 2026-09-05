@@ -1,4 +1,3 @@
-
 <table border="0">
   <tr>
     <td>
@@ -48,13 +47,12 @@
 -  **Object-Oriented Programming:** Starting Java this semester for POO classes.
 -  **Web Fundamentals:** Improving HTML5 and CSS3 through practical projects.
 
-
-
 ### 🚀 Pinned Projects
-- **Cartesian Game (Logisim)** — Digital game built using logic circuits  
-- **Donuts Game** — Programming project made for Intro to Programming in C  
-- **C Logic Exercises** — Solutions for algorithm and logic practice  
-- **PreparaElite** — Web registration system project  
+- **Final-Project-Embedded-Systems-PNAAT** — AI-enabled home automation using ESP32-S3, BNO085 sensor, PWM LED control, OLED display, NTP, and MQTT.
+- **Dounuts_Game** — Game project built in C presented as a partial grade for Introduction to Programming.
+- **cartesian_game** — Digital game built in Logisim ITA using logic circuits, controlling a point on a 15x15 LED matrix with 7-segment displays.
+- **GamerRent** — Java-based system project for game rentals (forked from GildoAlvesdeLimaJunior/GamerRent).
+- **PreparaEliteLaravel** — Web system project developed with PHP/Laravel (forked from luisotavio2023/PreparaEliteLaravel).
 
 ### 📫 Contact
 <div align="left">
