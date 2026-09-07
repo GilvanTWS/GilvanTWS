@@ -53,6 +53,7 @@
 - **cartesian_game** — Digital game built in Logisim ITA using logic circuits, controlling a point on a 15x15 LED matrix with 7-segment displays.
 - **GamerRent** — Java-based system project for game rentals (forked from GildoAlvesdeLimaJunior/GamerRent).
 - **PreparaEliteLaravel** — Web system project developed with PHP/Laravel (forked from luisotavio2023/PreparaEliteLaravel).
+- **Yolo-edge-api** — YOLO object detection API built for edge devices.
 
 ### 📫 Contact
 <div align="left">
