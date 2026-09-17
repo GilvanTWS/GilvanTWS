@@ -5,14 +5,16 @@
       <h3>👨‍💻 About Me</h3>
       <ul>
         <li> CS student at UFCA (4th semester)</li>
-        <li> Focused on C programming, algorithms, and problem-solving</li>
-        <li> Interested in backend development and systems</li>
+        <li> Electrical technician experienced with bench equipment (multimeter, bench power supply) and soldering</li>
+        <li> Focused on C programming, algorithms, problem-solving and embedded systems</li>
+        <li> Interested in backend development, hardware-software integration, and systems</li>
         <li> Always working on new projects and improving technical skills</li>
       </ul>
     </td>
   </tr>
 </table>
 
+### 🛠️ Tech Stack
 ### 🛠️ Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C logo" />
@@ -21,28 +23,36 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="Arduino logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="35" alt="Raspberry Pi logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="35" alt="ESP32 badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/KiCad-316FC4?style=for-the-badge&logo=kicad&logoColor=white" height="35" alt="KiCad badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="35" alt="MQTT badge" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VSCode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java logo" />
 </div>
 
-### 📚 Currently Learning
+### 📚 Currently Learning & Hardware Skills
+- **Embedded Systems & Hardware:** Developing with Arduino, ESP32, and Raspberry Pi Pico, utilizing communication protocols like I2C, UART, Wi-Fi, and MQTT.
+- **PCB Design:** Learning and practicing circuit design using **KiCad**.
 - **Competitive Programming:** Practicing on Beecrowd and Codeforces, and participating in programming contests such as SBC and MCP 
--  **Graph Theory:** Implementing BFS, DFS, and Dijkstra  
--  **Advanced Data Structures:** Hash tables and Trees in C/C++  
--  **Web Development:** Backend fundamentals with PHP/Laravel
--  **Object-Oriented Programming:** Starting Java this semester for POO classes.
--  **Web Fundamentals:** Improving HTML5 and CSS3 through practical projects.
+- **Graph Theory:** Implementing BFS, DFS, and Dijkstra  
+- **Advanced Data Structures:** Hash tables and Trees in C/C++  
+- **Web Development:** Backend fundamentals with PHP/Laravel
+- **Object-Oriented Programming:** Starting Java this semester for POO classes.
+- **Web Fundamentals:** Improving HTML5 and CSS3 through practical projects.
 
 ### 🚀 Pinned Projects
 - **Final-Project-Embedded-Systems-PNAAT** — AI-enabled home automation using ESP32-S3, BNO085 sensor, PWM LED control, OLED display, NTP, and MQTT.
