@@ -54,13 +54,12 @@
 - **Web Fundamentals:** Improving HTML5 and CSS3 through practical projects.
 
 ### 🚀 Pinned Projects
-- **Final-Project-Embedded-Systems-PNAAT** — AI-enabled home automation using ESP32-S3, BNO085 sensor, PWM LED control, OLED display, NTP, and MQTT.
-- **Dounuts_Game** — Game project built in C presented as a partial grade for Introduction to Programming.
-- **cartesian_game** — Digital game built in Logisim ITA using logic circuits, controlling a point on a 15x15 LED matrix with 7-segment displays.
-- **GamerRent** — Java-based system project for game rentals (forked from GildoAlvesdeLimaJunior/GamerRent).
-- **PreparaEliteLaravel** — Web system project developed with PHP/Laravel (forked from luisotavio2023/PreparaEliteLaravel).
-- **Yolo-edge-api** — YOLO object detection API built for edge devices.
-
+- **Final-Project-Embedded-Systems-PNAAT** — AI-enabled home automation: ESP32-S3 recognizes gestures using a BNO085 sensor and Edge Impulse to control an LED via PWM, featuring an OLED display, NTP clock, and MQTT telemetry.
+- **Dounuts_Game** — This project, based on the game Donuts, was presented as a partial grade for the Introduction to Programming course.
+- **GamerRent** — Java-based system project for game rentals (Forked from GildoAlvesdeLimaJunior/GamerRent).
+- **PreparaEliteLaravel** — Web system project developed with PHP/Laravel (Forked from luisotavio2023/PreparaEliteLaravel). Projeto de uma quase empresa.
+- **yolo-edge-api** — Work in progress — YOLO object detection API (FastAPI) built for edge devices, with multi-arch Docker, CI/CD and automated deploy.
+- **TCC-PNAAT** — Integrated Visual Component Sorting (TRIA): Physical PoC capstone project that classifies MDF pieces by internal mark (square, triangle, or X) using Raspberry Pi and OpenCV, and routes via MQTT/Node-RED.
 ### 📫 Contact
 <div align="left">
   <a href="mailto:gilvan.junior423@gmail.com" target="_blank">
